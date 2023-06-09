@@ -1,4 +1,8 @@
-public class Programm {
+/**
+ * Необходимо реализовать метод разворота связного списка (двухсвязного или односвязного на выбор).
+ */
+
+public class Program {
     public static void main(String[] args) {
 
         List list = new List();
